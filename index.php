@@ -113,7 +113,7 @@
 
                         for ($box=1; $box <= $count; $box++) { 
 
-                            echo '<div class="carousel-item '.($box = 1 ? 'active' : '').' ">
+                            echo '<div class="carousel-item '.($box == 1 ? 'active' : '').' ">
                                     <div class="row">
                                         <div class="col-md-12">
                                             <div class="row">';

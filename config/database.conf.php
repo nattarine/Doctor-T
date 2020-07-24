@@ -6,7 +6,7 @@ $config['database']	= array(
 	'timezone'		=> 'Asia/Bangkok',
 	'client'		=> array(
 		'host'			=> 'localhost',
-		'database_name'	=> 'doctor_t',
+		'database_name'	=> 'doctor-t',
 		'username'		=> 'root',
 		'password'		=> null
 	),
